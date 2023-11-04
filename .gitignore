@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+vite.config.ts.map
+vite.config.ts.hot-update
+.env
+.DS_Store
