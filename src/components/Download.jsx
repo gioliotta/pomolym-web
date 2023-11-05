@@ -16,7 +16,7 @@ function Download() {
     <div className="container-download">
       <p className="download-text">
         <span onClick={pomoLymAPK}>Download for Android</span>
-        Version: 1.0.0 &nbsp;&nbsp;&nbsp;Size: 39.43mb
+        Version: 1.0.0 &nbsp;&nbsp;&nbsp;Size: 30.3 MB
       </p>
       <img
         style={{ cursor: "pointer" }}
