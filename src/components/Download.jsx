@@ -8,22 +8,22 @@ function Download() {
     link.href = pomolymApkUrl;
     link.setAttribute("download", "pomolym.apk");
     link.role = "link";
-    link.ariaLabel = "Download APK";
+    link.ariaLabel = "Descargar APK";
     link.click();
   }
 
   return (
     <div className="container-download">
       <p className="download-text">
-        <span onClick={pomoLymAPK}>Download for Android</span>
-        Version: 1.0.1 &nbsp;&nbsp;&nbsp;Size: 30,39 MB
+        <span onClick={pomoLymAPK}>Descargar para Android</span>
+        Versión: 1.0.1 &nbsp;&nbsp;&nbsp;Tamaño: 30,39 MB
       </p>
       <img
         style={{ cursor: "pointer" }}
         onClick={pomoLymAPK}
         src={donwloadIcon}
-        title="Download APK"
-        alt="Download Icon"
+        title="Descargar APK"
+        alt="Descargar Icono"
       />
     </div>
   );

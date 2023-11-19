@@ -15,5 +15,3 @@ function App() {
 }
 
 export default App;
-
-//!rompí la rama soy un choto

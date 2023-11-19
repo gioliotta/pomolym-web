@@ -2,12 +2,12 @@ function Footer() {
   return (
     <footer className="footer">
       <p>
-        Support:{" "}
+        Soporte:{" "}
         <a
           href="mailto:gioliotta.io@gmail.com"
           target="_blank"
           rel="noreferrer"
-          aria-label="Support email"
+          aria-label="Soporte mail"
         >
           gioliotta.io@gmail.com
         </a>
@@ -16,11 +16,11 @@ function Footer() {
         href="https://github.com/gioliotta/pomolym-web"
         target="_blank"
         rel="noreferrer"
-        aria-label="GitHub repository link"
+        aria-label="Repositorio de GitHub link"
       >
-        GitHub repository
+        Repositorio de GitHub
       </a>
-      <p>&copy; All rights reserved</p>
+      <p>&copy; Derechos reservados</p>
     </footer>
   );
 }

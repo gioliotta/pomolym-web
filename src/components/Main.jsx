@@ -5,20 +5,17 @@ function Main() {
     <main className="main">
       <div className="main-text">
         <h1>
-          PomoLym<span>: Pomodoro for Minimalists</span>
+          PomoLym<span>: Pomodoro para Minimalistas</span>
         </h1>
 
         <p>
-          <b>PomoLym</b> is a pomodoro app that focuses on simplicity. With a
-          dark and minimalist design, it is perfect for those looking for an
-          application that does not distract or overwhelm with unnecessary
-          options.
+          <b>PomoLym</b> es una app tipo pomodoro. Simple, intuitiva y
+          funcional. Diseño oscuro y minimalista.
           <br />
           <br />
-          It has basic features of a Pomodoro app: customizable work and rest
-          cycles to suit your needs.
+          Personaliza los ciclos de trabajo según tus necesidades.
           <br /> <br />
-          ¡Download <b>PomoLym</b> today and start being more productive!
+          ¡Descarga <b>PomoLym</b> y aumenta tu productividad!
         </p>
         <Download />
       </div>
