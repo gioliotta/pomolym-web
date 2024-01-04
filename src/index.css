@@ -39,6 +39,11 @@
   font-family: "Lato", sans-serif;
 }
 
+.header .point {
+  color: #61df61;
+  width: 100%;
+}
+
 .main {
   display: flex;
   flex-direction: row;
